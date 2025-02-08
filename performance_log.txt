@@ -1,0 +1,21 @@
+Total Trades: 1
+Total Wins: 1
+Total Losses: 0
+Win Rate: 100.00%
+Average Return: 5.50%
+Drawdown: 0.00%
+--------------------------------------------------
+Total Trades: 2
+Total Wins: 1
+Total Losses: 1
+Win Rate: 50.00%
+Average Return: 1.75%
+Drawdown: 0.00%
+--------------------------------------------------
+Total Trades: 3
+Total Wins: 2
+Total Losses: 1
+Win Rate: 66.67%
+Average Return: 2.43%
+Drawdown: 0.00%
+--------------------------------------------------

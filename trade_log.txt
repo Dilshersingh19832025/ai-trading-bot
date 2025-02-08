@@ -1,0 +1,60 @@
+2025-02-06 14:02:04 - Buy order for 100 shares of AAPL at $50.0
+2025-02-06 14:02:04 - Sell order for 100 shares of AAPL at $55.0
+2025-02-06 14:17:59,263 - Simulating sell order for 100 shares of AMZN at $164.65459445780385
+2025-02-06 14:17:59,263 - Price change simulated: -0.20% | New price: $164.33
+2025-02-06 14:17:59,263 - Executed sell order for 100 shares of AMZN at $164.33
+2025-02-06 14:17:59,263 - Simulating buy order for 100 shares of AMZN at $164.65459445780385
+2025-02-06 14:17:59,263 - Price change simulated: 4.43% | New price: $171.95
+2025-02-06 14:17:59,263 - Executed buy order for 100 shares of AMZN at $171.95
+2025-02-06 14:18:00,278 - Simulating sell order for 100 shares of GOOG at $146.51099566129903
+2025-02-06 14:18:00,278 - Price change simulated: -3.07% | New price: $142.01
+2025-02-06 14:18:00,278 - Executed sell order for 100 shares of GOOG at $142.01
+2025-02-06 14:18:00,278 - Simulating buy order for 100 shares of GOOG at $146.51099566129903
+2025-02-06 14:18:00,278 - Price change simulated: -0.74% | New price: $145.42
+2025-02-06 14:18:00,278 - Executed buy order for 100 shares of GOOG at $145.42
+2025-02-06 14:18:01,281 - Simulating sell order for 100 shares of AAPL at $92.85058178414624
+2025-02-06 14:18:01,281 - Price change simulated: 2.05% | New price: $94.75
+2025-02-06 14:18:01,281 - Executed sell order for 100 shares of AAPL at $94.75
+2025-02-06 14:18:01,281 - Simulating buy order for 100 shares of AAPL at $92.85058178414624
+2025-02-06 14:18:01,281 - Price change simulated: -4.61% | New price: $88.57
+2025-02-06 14:18:01,281 - Executed buy order for 100 shares of AAPL at $88.57
+2025-02-06 14:18:02,283 - Simulating sell order for 100 shares of AAPL at $136.96945470756714
+2025-02-06 14:18:02,283 - Price change simulated: 2.56% | New price: $140.48
+2025-02-06 14:18:02,283 - Executed sell order for 100 shares of AAPL at $140.48
+2025-02-06 14:18:02,283 - Simulating buy order for 100 shares of AAPL at $136.96945470756714
+2025-02-06 14:18:02,283 - Price change simulated: -4.18% | New price: $131.24
+2025-02-06 14:18:02,283 - Executed buy order for 100 shares of AAPL at $131.24
+2025-02-06 14:18:03,285 - Simulating buy order for 100 shares of AAPL at $57.01845902493686
+2025-02-06 14:18:03,285 - Price change simulated: -3.36% | New price: $55.10
+2025-02-06 14:18:03,285 - Executed buy order for 100 shares of AAPL at $55.10
+2025-02-06 14:18:03,285 - Simulating sell order for 100 shares of AAPL at $57.01845902493686
+2025-02-06 14:18:03,285 - Price change simulated: 3.60% | New price: $59.07
+2025-02-06 14:18:03,285 - Executed sell order for 100 shares of AAPL at $59.07
+2025-02-06 14:18:04,287 - Trade Performance: Win Rate = 60.0% | Average Return = $-8.30 | Drawdown = $923.52
+2025-02-06 14:18:06,107 - Failed to send email: Connection unexpectedly closed
+2025-02-06 14:23:07.881782, buy, TSLA, 9, 117.94176208380253, -0.09472982855081344
+2025-02-06 14:23:14.725629, sell, AAPL, 7, 134.66250635005522, -0.06336262584431648
+2025-02-06 14:23:22.085779, sell, GOOGL, 6, 126.55873130588762, 0.012388584657799184
+2025-02-06 14:23:28.603223, sell, AAPL, 9, 112.86087858114688, -0.04336775930053933
+2025-02-06 14:23:35.086667, sell, GOOGL, 2, 116.2553069901385, -0.03127845224207691
+2025-02-06 14:23:41.504027, buy, AAPL, 8, 112.79547487977484, 0.08238464683209792
+2025-02-06 14:23:47.894233, buy, TSLA, 5, 136.22381505199465, 0.09480604428597997
+2025-02-06 14:23:54.350118, buy, AMZN, 10, 123.73954253907431, 0.19225998049407325
+2025-02-06 14:24:01.807203, buy, AAPL, 4, 148.24474317592293, 0.06646541255865981
+2025-02-06 14:24:08.309355, buy, AMZN, 2, 116.22211935625663, 0.18670750152953794
+2025-02-06 14:36:41.066184, sell, GOOGL, 4, 121.0148335404214, 0.1684381350936154
+2025-02-06 14:37:44.671525, buy, AMZN, 8, 106.29539349177298, 0.08293298629907789
+2025-02-06 14:38:47.717787, sell, TSLA, 5, 109.51944171857912, 0.10610909423918313
+2025-02-06 14:39:50.691314, sell, GOOGL, 9, 122.38566770295876, 0.08353937973233919
+2025-02-06 14:40:53.877028, buy, AMZN, 8, 120.45165460675187, 0.12213546856119573
+2025-02-06 14:41:56.844905, sell, GOOGL, 9, 100.1959550201634, -0.09257929331107312
+2025-02-06 14:42:59.930543, sell, TSLA, 8, 118.18607255364441, 0.045268956195658155
+2025-02-06 14:44:02.916927, buy, GOOGL, 6, 128.94747870012228, -0.06819275441252884
+2025-02-06 14:45:05.997155, sell, AMZN, 8, 126.56718019974068, -0.014990430235306482
+2025-02-06 14:46:09.174130, buy, GOOGL, 7, 130.2800757159963, 0.18958105347269658
+buy 2 shares of GOOGL at 143.15 with profit: 0.060000000000002274
+sell 2 shares of GOOGL at 143.18 with profit: 0.060000000000002274
+buy 2 shares of AMZN at 171.75 with profit: 4.300000000000011
+sell 2 shares of AMZN at 173.9 with profit: 4.300000000000011
+buy 6 shares of TSLA at 168.89 with profit: 15.360000000000014
+sell 6 shares of TSLA at 171.45 with profit: 15.360000000000014
