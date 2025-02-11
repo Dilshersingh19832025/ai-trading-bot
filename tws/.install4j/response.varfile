@@ -1,0 +1,9 @@
+# install4j response file for Trader Workstation stable (10.30.1t) 20250107 15:54:41
+cmdLineArgs$StringArray="C\:\\\\Users\\\\kaur_\\\\OneDrive\\\\Documents\\\\AI project\\\\tws","ndc1.ibllc.com\:4000","language\=https\://download2.interactivebrokers.com/installers/shared/i18n/ib"
+exeName=tws
+executeLauncherAction$Boolean=true
+installerType=updatable
+jtsConfigDir=C\:\\Users\\kaur_\\OneDrive\\Documents\\AI project\\tws
+sys.adminRights$Boolean=false
+sys.installationDir=C\:\\Users\\kaur_\\OneDrive\\Documents\\AI project\\tws
+sys.languageId=en
