@@ -80,5 +80,9 @@ Desktop.ini
 *.sqlite
 
 # (Optional) Exclude your secrets file. It is best practice to keep API keys out of source control.
-.env
+.env 
+# Ignore large binary files in tws/jars/
+tws/jars/*.dat
+tws/jars/*.jar
+
 
