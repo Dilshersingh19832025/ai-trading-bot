@@ -1,0 +1,1 @@
+The signal generation module will use our calculated technical indicators (like SMA, EMA, Bollinger Bands, RSI, and SuperTrend) to determine when to buy, sell, or hold a position. Essentially, it will translate market data into actionable trading signals based on predefined strategies and thresholds.
