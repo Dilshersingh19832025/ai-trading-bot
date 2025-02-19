@@ -1,0 +1,14 @@
+o activate your virtual environment (assuming you have already created it), follow these steps:
+
+Navigate to your project directory: Open the Command Prompt or Terminal and navigate to your project directory where the virtual environment is located:
+bash
+Copy
+cd C:\Users\kaur_\OneDrive\Documents\AI project
+Activate the Virtual Environment:
+For Windows (using Command Prompt):
+bash
+Copy
+venv\Scripts\activate
+
+
+python main.py

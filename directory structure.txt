@@ -1,0 +1,12 @@
+AI-project/
+│
+├── main.py              # Entry point for running the bot
+├── data_fetching.py     # Module for fetching (and caching) data from yfinance (or other sources)
+├── indicators.py        # Module for indicator calculations (e.g., SuperTrend, Bollinger Bands, etc.)
+├── signal_generation.py # Module for generating trading signals (including ML-based signals)
+├── order_execution.py   # Module for order placement and trade management (including TWS/Binance integration)
+├── notifications.py     # Module for handling notifications (Telegram, Email, etc.)
+├── config.py            # Configuration file for constants, thresholds, and API credentials (can also be loaded via .env)
+├── utils.py             # Utility functions (e.g., data cleaning, logging setup, etc.)
+├── requirements.txt     # List of required Python packages
+└── .env                 # Environment variables (API keys, etc.)
