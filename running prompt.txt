@@ -12,3 +12,5 @@ venv\Scripts\activate
 
 
 python main.py
+python order_execution.py
+
