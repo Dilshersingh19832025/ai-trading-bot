@@ -1,0 +1,23 @@
+tws:
+  host: "127.0.0.1"
+  port: 7497
+  client_id: 1
+
+risk:
+  account_balance: 100000
+  risk_per_trade: 0.02
+
+polling:
+  interval: 0.5
+  fallback_threshold: 20.0
+  timeout: 30.0
+
+simulation: true
+paper_trading: true
+
+alerts:
+  enabled: false
+  telegram_bot_token: 8033498386:AAGLWBWzpFdOT4hQHEmmPM2jEIR9VoWY3po
+  telegram_chat_id: 7815291355
+
+
