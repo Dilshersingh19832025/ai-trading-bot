@@ -13,4 +13,11 @@ venv\Scripts\activate
 
 python main.py
 python order_execution.py
+python advanced_simulation.py
+python enhanced_simulation.py
+python enhanced_simulation_detailed.py
+python enhanced_simulation_phase3.py
+python enhanced_simulation_phase3_refined.py
+python enhanced_simulation_phase3_extended.py
+python enhanced_simulation_phase3_extended_refined.py
 

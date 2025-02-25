@@ -81,8 +81,20 @@ Desktop.ini
 
 # (Optional) Exclude your secrets file. It is best practice to keep API keys out of source control.
 .env 
+
 # Ignore large binary files in tws/jars/
 tws/jars/*.dat
 tws/jars/*.jar
+
+# --- Custom Additions ---
+
+# Ignore data and results
+*.csv
+*.png
+*.jpg
+*.log
+
+# Ignore temporary simulation outputs
+*Simulation (Core Comp.txt
 
 

@@ -1,16 +1,31 @@
+# Data manipulation and numerical computing
 numpy>=1.23.2,<1.24
 pandas==1.5.3
+
+# Visualization
 matplotlib==3.6.2
 seaborn==0.12.2
+
+# Machine learning and modeling
 scikit-learn==1.2.0
 tensorflow==2.12.0
+
+# Environment and configuration management
 python-dotenv==0.21.0
+
+# HTTP requests and APIs
 requests==2.28.2
 ccxt==2.2.75
 alpaca-trade-api==0.52.0
 yfinance==0.2.18
+
+# Backtesting and trading
 backtrader==1.9.78.123
 TA-Lib==0.6.3
 schedule==1.1.0
 ta==0.10.2
+
+# Interactive Brokers API
+ib_insync==0.9.86
+
 
